@@ -21,6 +21,8 @@ namespace LectureActivity1_29_2025
                 else if (num > 0) ;
                 Console.WriteLine("I don't like evaluating negative numbers.");
 
+                // Comment
+
 
             }
 
